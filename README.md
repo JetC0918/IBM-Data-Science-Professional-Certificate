@@ -17,13 +17,13 @@ This repository contains documentation and resources used to complete the certif
 - ✅ [09. Machine Learning with Python](./09.%20Machine%20Learning%20with%20Python/)
 - ✅ [10. Applied Data Science Capstone](./10.%20Applied%20Data%20Science%20Capstone/)
 
-# 🧰 Tools
-![Python](./Images/python.png)
-Python 
-![Jupyter](./Images/jupyter.png)
-Jupyter 
-![Github](./Images/github.svg)
-GitHub
+# 🧰 Tools 
+<p float="left">
+  <img src="./Images/python.png" width="100" />
+  <img src="./Images/jupyter.png" width="100" /> 
+  <img src="./Images/github.svg" width="100" />
+</p>
+Python, Jupyter, GitHub
 
 # 📚 Libraries
 The following Python libraries were used throughout the certification:
