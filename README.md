@@ -26,15 +26,18 @@ This repository contains documentation and resources used to complete the certif
 Python, Jupyter, GitHub
 
 # 📚 Libraries
-The following Python libraries were used throughout the certification:
-![Pandas](./Images/pandas.png)
-![Numpy](./Images/numpy.png)
-![SciPy](./Images/scipy.jpg)
-![Matplotlib](./Images/matplotlib.svg)
-![Seaborn](./Images/seaborn.png)
-![Plotly](./Images/Plotly-logo.jpg)
-![Follium](./Images/follium.png)
-![Scikit-learn](./Images/scikit_learn.png)
+The following Python libraries were used throughout the certification: 
+<p float="left">
+  <img src="./Images/pandas.png" width="100" />
+  <img src="./Images/numpy.png" width="100" /> 
+  <img src="./Images/scipy.jpg" width="100" />
+  <img src="./Images/matplotlib.svg" width="100" />
+  <img src="./Images/seaborn.png" width="100" />
+  <img src="./Images/Plotly-logo.jpg" width="100" />
+  <img src="./Images/follium.png" width="100" />
+  <img src="./Images/scikit_learn.png" width="100" />
+</p>
+
 
 # 📂 Projects
 
