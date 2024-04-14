@@ -35,18 +35,17 @@ The following Python libraries were used throughout the certification:
   <img src="./Images/seaborn.png" width="100" />
   <img src="./Images/Plotly-logo.jpg" width="100" />
   <img src="./Images/follium.png" width="100" />
-  <img src="./Images/scikit_learn.png" width="100" />
+  <img src="./Images/scikit_learn.png" />
 </p>
 
 
 # 📂 Projects
 
 # 🏅 Certificates
-The images contains link to certificates.
-[![alt text](./Images/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e)
+The images contains link to certificates. 
 
 <p float="left">
   <a href=https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e">
-      <img src="./Images/Professional_Certificate_-_Data_Science.png" alt="Credly certification">
+      <img src="./Images/Professional_Certificate_-_Data_Science.png" alt="Credly certification" width="100" />
   </a>
 </p>
