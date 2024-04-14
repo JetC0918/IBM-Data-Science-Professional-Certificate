@@ -46,6 +46,6 @@ The images contains link to certificates.
 
 <p float="left">
   <a href=https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e">
-      <img src="./Images/Professional_Certificate_-_Data_Science.png" alt="Credly certification" width="100" />
+      <img src="./Images/Professional_Certificate_-_Data_Science.png" alt="Credly certification" width="300" />
   </a>
 </p>
