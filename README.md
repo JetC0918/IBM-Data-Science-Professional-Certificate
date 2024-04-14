@@ -44,3 +44,9 @@ The following Python libraries were used throughout the certification:
 # 🏅 Certificates
 The images contains link to certificates.
 [![alt text](./Images/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e)
+
+<p float="left">
+  <a href=https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e">
+      <img src="./Images/Professional_Certificate_-_Data_Science.png" alt="Credly certification">
+  </a>
+</p>
