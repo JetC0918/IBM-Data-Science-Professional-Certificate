@@ -43,4 +43,4 @@ The following Python libraries were used throughout the certification:
 
 # 🏅 Certificates
 Click the images to follow the links and verify the certificates. 
-[![alt text](./Images/Professional_Certificate_-_Data_Science.png)]([link_url](https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e))
+[![alt text](./Images/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e)
