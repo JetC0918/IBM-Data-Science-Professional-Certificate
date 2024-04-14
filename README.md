@@ -18,26 +18,26 @@ This repository contains documentation and resources used to complete the certif
 - ✅ [10. Applied Data Science Capstone](./10.%20Applied%20Data%20Science%20Capstone/)
 
 # 🧰 Tools
-[Python](./Images/python.png)
+![Python](./Images/python.png)
 Python 
-[Jupyter](./Images/jupyter.png)
+![Jupyter](./Images/jupyter.png)
 Jupyter 
-[Github](./Images/github.svg)
+![Github](./Images/github.svg)
 GitHub
 
 # 📚 Libraries
 The following Python libraries were used throughout the certification:
-[Pandas](./Images/pandas.png)
-[Numpy](./Images/numpy.png)
-[SciPy](./Images/scipy.jpg)
-[Matplotlib](./Images/matplotlib.svg)
-[Seaborn](./Images/seaborn.png)
-[Plotly](./Images/Plotly-logo.jpg)
-[Follium](./Images/follium.png)
-[Scikit-learn](./Images/scikit_learn.png)
+![Pandas](./Images/pandas.png)
+![Numpy](./Images/numpy.png)
+![SciPy](./Images/scipy.jpg)
+![Matplotlib](./Images/matplotlib.svg)
+![Seaborn](./Images/seaborn.png)
+![Plotly](./Images/Plotly-logo.jpg)
+![Follium](./Images/follium.png)
+![Scikit-learn](./Images/scikit_learn.png)
 
 # 📂 Projects
 
 # 🏅 Certificates
 Click the images to follow the links and verify the certificates.
-[](./Images/Professional_Certificate_-_Data_Science.png)(https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e)
+![](./Images/Professional_Certificate_-_Data_Science.png)(https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e)
