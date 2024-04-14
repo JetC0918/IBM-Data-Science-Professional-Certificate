@@ -35,7 +35,7 @@ The following Python libraries were used throughout the certification:
   <img src="./Images/seaborn.png" width="100" />
   <img src="./Images/Plotly-logo.jpg" width="100" />
   <img src="./Images/follium.png" width="100" />
-  <img src="./Images/scikit_learn.png" />
+  <img src="./Images/scikit_learn.png"width="100"  />
 </p>
 
 
