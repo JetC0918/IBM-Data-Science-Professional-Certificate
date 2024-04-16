@@ -40,6 +40,13 @@ The following Python libraries were used throughout the certification:
 
 
 # 📂 Projects
+- [Extracting and Visualizing Stock Data](./05.%20Python%20Project%20for%20Data%20Science/Analyzing%20Stock%20Data%20and%20Building%20Dashboard.ipynb)
+- [Chicago Census, Crime, and School Data Analysis using SQL](.06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/)
+- [House Price Predictions](.07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
+- [US Domestic Airline Flights Performance Dashboard](./08.%20Data%20Visualization%20with%20Python/Final%20Assignment/)
+- [Best Classifier Model](./09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
+- [Dashboard and Interactive Map](./10.%20Applied%20Data%20Science%20Capstone/04.%20Interactive%20Visual%20Analytics/)
+- [Predicting Successful Rocket Landings](./10.%20Applied%20Data%20Science%20Capstone/05.%20Predictive%20Analysis%20(Classification)/05.%20Predictive%20Analysis%20(Classification).ipynb)
 
 # 🏅 Certificates
 The images contains link to certificates. 
