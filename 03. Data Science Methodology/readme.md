@@ -1,7 +1,9 @@
 # What is Data Science?
 
 ## 📌 Summary
-This course introduces data science methodologies, like the IBM Foundational Methodology and Cross Industry Process for Data Mining (CRISP-DM). These tools effectively answer questions in a prescribed, logical sequence, and provide a framework for problem solving.
+This course introduces data science methodologies, like the IBM Foundational Methodology and Cross Industry Process for Data Mining (CRISP-DM). 
+
+These tools effectively answer questions in a prescribed, logical sequence, and provide a framework for problem solving.
 
 ## ✏️ Main Topics
 -   <a href="./Foundational Methodology.ipynb">
