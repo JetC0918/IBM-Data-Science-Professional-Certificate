@@ -1,5 +1,5 @@
-# What is Data Science?
-
+#  Applied Data Science Capstone
+ 
 ![image](./Images/1.jpg)
 
 ## 📌 Summary
