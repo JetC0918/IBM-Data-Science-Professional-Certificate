@@ -1,4 +1,4 @@
-# What is Data Science?
+# Python for Data Science, AI & Development
 
 ## 📌 Summary
 This course introduces Python fundamentals, including data structures and data analysis, and these skills are used throughout the following courses.
