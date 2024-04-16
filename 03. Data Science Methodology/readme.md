@@ -1,4 +1,4 @@
-# What is Data Science?
+# Data Science Methodology
 
 ## 📌 Summary
 This course introduces data science methodologies, like the IBM Foundational Methodology and Cross Industry Process for Data Mining (CRISP-DM). 
