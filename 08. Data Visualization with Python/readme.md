@@ -1,4 +1,4 @@
-# What is Data Science?
+# Data Visualization with Python
 
 ## 📌 Summary
 This course focuses on presenting and visualizing complex data in a clear and understandable way, enabling easy derivation of insights. 
@@ -7,7 +7,7 @@ It utilizes various Python data visualization libraries including Matplotlib, Se
 
 The course also includes a section on creating dashboards using Plotly Dash.
 
-The [final project](./Final%20Assignment/Peer%20Graded%20Assignment%20Questions.ipynb) combines these skills to analyze and report on the performance of US domestic airline flights in a dashboard format.
+The [final assignment](./Final%20Assignment/Peer%20Graded%20Assignment%20Questions.ipynb) combines these skills to analyze and report on the performance of US domestic airline flights in a dashboard format.
 
 ## ✏️ Main Topics
 - Introduction to Data Visualization Tools
