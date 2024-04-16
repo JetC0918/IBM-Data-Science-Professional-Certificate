@@ -4,7 +4,7 @@
 
 This course uses Python to explore various types of data, covering data preparation, simple statistical analysis, creating data visualizations, predicting future trends, and more.
 
- It concludes with a <a href="./Final Assignment - House Price Predictions.ipynb/"><p>Final Assignment</p></a>: predicting market prices of houses based on a detailed dataset. 
+ It concludes with a [Final Assignment](./Final%20Assignment%20-%20House%20Price%20Predictions.ipynb): predicting market prices of houses based on a detailed dataset. 
  
  The notebooks are detailed, collectively showing the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks to cover the content comprehensively.
 
