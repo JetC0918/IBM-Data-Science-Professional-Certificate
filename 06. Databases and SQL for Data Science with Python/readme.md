@@ -3,7 +3,7 @@
 ## 📌 Summary
 The course aims to introduce relational database concepts and apply foundational SQL language knowledge. 
 
-It also provides a basis for performing SQL access in a data science environment. 
+It also provides a basis for performing SQL access in data science environment. 
 
 ## ✏️ Main Topics
 - <a href="./01. Getting Started with SQL/"></a><p>Getting Started with SQL</p>
