@@ -20,7 +20,7 @@ The images contains link to certificates.
  <br/><br/> 
  
 <p float="left">
-  <a href=[https://www.credly.com/earner/earned/badge/36774f5d-5edb-4bd9-89ff-0de5a302b36e](https://www.coursera.org/account/accomplishments/verify/NVQ3SH2SSM5A)">
-      <img src="./Images/Coursera%20NVQ3SH2SSM5A.jpg" alt="IBM certification" width="50%" height="50%" />
+  <a href= "https://www.coursera.org/account/accomplishments/verify/NVQ3SH2SSM5A">
+      <img src="./Images/Coursera NVQ3SH2SSM5A.jpg" alt="IBM certification" width="50%" height="50%" />
   </a>
 </p>
