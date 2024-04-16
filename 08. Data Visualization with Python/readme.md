@@ -7,7 +7,7 @@ It utilizes various Python data visualization libraries including Matplotlib, Se
 
 The course also includes a section on creating dashboards using Plotly Dash.
 
- The <a href="./Final Assignment/Peer Graded Assignment Questions.ipynb"><p>final project </p></a>combines these skills to analyze and report on the performance of US domestic airline flights in a dashboard format.
+ The <a href="./Final Assignment/Peer Graded Assignment Questions.ipynb"> <p>final project </p></a>combines these skills to analyze and report on the performance of US domestic airline flights in a dashboard format.
 
 ## ✏️ Main Topics
 - Introduction to Data Visualization Tools
