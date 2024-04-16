@@ -4,32 +4,32 @@
 
 This course uses Python to explore various types of data, covering data preparation, simple statistical analysis, creating data visualizations, predicting future trends, and more.
 
- It concludes with a <a href="./Final Assignment - House Price Predictions.ipynb"></a><p>Final Assignment</p>: predicting market prices of houses based on a detailed dataset. 
+ It concludes with a <a href="./Final Assignment - House Price Predictions.ipynb"><p>Final Assignment</p></a>: predicting market prices of houses based on a detailed dataset. 
  
  The notebooks are detailed, collectively showing the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks to cover the content comprehensively.
 
 ## ✏️ Main Topics
-- <a href="./01. Importing Datasets/"></a><p>Importing datasets</p>
+- <a href="./01. Importing Datasets/"><p>Importing datasets</p></a>
   - Understanding the data
   - Importing and exporting data in Python
-- <a href="./02. Data Wrangling/"></a><p>Data wrangling</p>
+- <a href="./02. Data Wrangling/"><p>Data wrangling</p></a>
   - Identifying and handling missing values
   - Data formatting
   - Data normalization
   - Binning
   - Indicator variables
-- <a href="./03. Exploratory Data Analysis/"></a><p>Exploratory Data Analysis</p>
+- <a href="./03. Exploratory Data Analysis/"><p>Exploratory Data Analysis</p></a>
   - Summarizing main characteristics of the data
   - Gaining better understanding of the data set
   - Uncovering relationships between the variables
   - Extracting important variables
-- <a href="./04. Model Development/"></a><p>Model Development</p>
+- <a href="./04. Model Development/"><p>Model Development</p></a>
   - Simple and Multiple Linear Regression
   - Model Evaluation Using Visualization
   - Polynomial Regression and Pipelines
   - R-squared and MSE for In-Sample Evaluation
   - Prediction and Decision Making
-- <a href="./05. Model Evaluation and Refinement/"></a><p>Model Evaluation and Refinement</p>
+- <a href="./05. Model Evaluation and Refinement/"><p>Model Evaluation and Refinement</p></a>
   - Over-fitting, under-fitting and model selection
   - Ridge regression
   - GridSearch
