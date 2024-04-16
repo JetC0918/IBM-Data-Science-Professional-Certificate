@@ -1,4 +1,4 @@
-# What is Data Science?
+# Python Project for Data Science
 
 ## 📌 Summary
 This course aims to showcase essential Python skills for handling data. It includes a hands-on project where a dashboard is developed using Python. 
