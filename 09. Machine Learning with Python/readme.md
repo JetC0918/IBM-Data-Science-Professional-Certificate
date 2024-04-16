@@ -1,11 +1,11 @@
- q# What is Data Science?
+ # Machine Learning with Python
 
 ## 📌 Summary
 This course offers an overview of Machine Learning's purpose and its real-world applications. It discusses supervised vs. unsupervised learning, model evaluation, and various Machine Learning algorithms.
 
 To delve into machine learning methods and algorithms, the course explores several example projects. These include cancer detection, economic trend prediction, customer churn prediction, and recommendation engines.
 
-The <a href="./Final Project/Machine Learning with Python - The Best Classifier.ipynb"><p>final project</p></a> involves building a classifier to predict loan case outcomes. It tackles a classification problem, utilizing KNN, Decision Tree, SVM, and Logistic Regression algorithms to determine the optimal approach.
+The [final assignment](./Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb) involves building a classifier to predict loan case outcomes. It tackles a classification problem, utilizing KNN, Decision Tree, SVM, and Logistic Regression algorithms to determine the optimal approach.
 
 ## ✏️ Main Topics
 - <a  href="./01. Introduction to Machine Learning/"><p>Introduction to Machine Learning</p></a>
