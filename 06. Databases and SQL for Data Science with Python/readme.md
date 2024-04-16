@@ -12,31 +12,31 @@ It also provides a basis for performing SQL access in data science environment.
   - COUNT, DISTINCT, LIMIT Statements
   - INSERT Statements
   - UPDATE and DELETE Statements
-- <a href="./02. Introduction to Relational Databases and Tables/"></a><p>Introduction to Relational Databases and Tables </p>
+- <a href="./02. Introduction to Relational Databases and Tables/"><p>Introduction to Relational Databases and Tables </p></a>
   - Relational Database Concepts
   - Types of SQL statements (DDL vs. DML)
   - CREATE TABLE Statement
   - ALTER, DROP, and Truncate tables
   - Create and Load Tables using SQL Scripts
-- <a href="./03. Intermediate SQL/"></a><p>Intermediate SQL </p>
+- <a href="./03. Intermediate SQL/"><p>Intermediate SQL </p></a>
   - Refining Results
     - String Patterns, Ranges, Sorting, and Grouping
   - Functions, Multiple Tables, and Sub-queries
     - Built-in Database Functions
     - Sub-Queries and Nested SELECTS
     - Working with Multiple Tables
-- <a href="./04. Accessing Databases using Python/"></a><p>Accessing Databases using Python </p>
+- <a href="./04. Accessing Databases using Python/"><p>Accessing Databases using Python </p></a>
   - How to Access Databases Using Python
   - Writing Code using DB-API
   - Connecting to a Database Instance
   - Creating Tables, Inserting, and Querying Data
   - SQL Magic
   - Analysing Data with Python
-- <a href="./05. Course Assignment/"></a><p>Course Assignment </p>
+- <a href="./05. Course Assignment/"><p>Course Assignment </p></a>
   - Working with Real World Datasets
   - Getting Table and Column Details
   - Loading Data
-- <a href="./06. Bonus Module - Advanced SQL for Data Engineering/"></a><p>Bonus Module: Advanced SQL for Data Engineering </p>
+- <a href="./06. Bonus Module - Advanced SQL for Data Engineering/"><p>Bonus Module: Advanced SQL for Data Engineering </p></a>
   - Views, Stored Procedures, and Transactions
     - Using Views
     - Stored Procedures
